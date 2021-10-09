@@ -18,7 +18,7 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 
 ### My Digital Garden 🌱
 
-I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
+I write regular blog posts, most of which you will find on my personal website [prasanthsasikumar.com](prasanthsasikumar.com).
 
 I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **AR/VR** using **Unity** and **C#**. 
 
