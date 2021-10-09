@@ -1,4 +1,4 @@
-# [![prasanthsasikumar header](https://raw.githubusercontent.com/prasanthsasikumar/prasanthsasikumar/main/Images/logoBanner.png)](https://prasanthsasikumar.com)
+# [![prasanthsasikumar header](https://raw.githubusercontent.com/prasanthsasikumar/prasanthsasikumar/main/Images/logoBanner.jpg)](https://prasanthsasikumar.com)
 
 Hey there 👋,
 
