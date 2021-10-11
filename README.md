@@ -23,9 +23,6 @@ I write regular blog posts, most of which you will find on my personal website [
 I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **AR/VR** using **Unity** and **C#**. 
 
 
-
-💌 Sign up for my [newsletter](https://prasanthsasikumar.com/newsletter/) (Comming soon)
-
 ---
 
 
