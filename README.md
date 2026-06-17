@@ -4,7 +4,7 @@ Hey there 👋
 
 I'm a Research Fellow at the National University of Singapore, working at the intersection of **AI and spatial computing**. My research applies machine learning to human sensing — predicting VR cybersickness from gameplay video, classifying physiological signals from EEG, and building intelligent interactive systems in XR.
 
-I publish at top HCI venues (CHI, IEEE VR, ISMAR, SIGGRAPH) with **565+ citations**, and I build tools and prototypes that bridge the gap between research and real products.
+I publish at top HCI venues (CHI, IEEE VR, ISMAR, SIGGRAPH) with **700+ citations**, and I build tools and prototypes that bridge the gap between research and real products.
 
 📍 [prasanthsasikumar.com](https://prasanthsasikumar.com) · [Google Scholar](https://scholar.google.com/citations?user=85RKyZMAAAAJ)
 
