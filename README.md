@@ -1,6 +1,6 @@
 # [![prasanthsasikumar header](https://raw.githubusercontent.com/prasanthsasikumar/prasanthsasikumar/main/Images/logoBanner.jpg)](https://prasanthsasikumar.com)
 
-[Hey there 👋
+Hey there 👋
 
 I'm a Research Fellow at the National University of Singapore, working at the intersection of **AI and spatial computing**. My research applies machine learning to human sensing — predicting VR cybersickness from gameplay video, classifying physiological signals from EEG, and building intelligent interactive systems in XR.
 
