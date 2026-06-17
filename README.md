@@ -29,6 +29,7 @@ I publish at top HCI venues (CHI, IEEE VR, ISMAR, SIGGRAPH) with **700+ citation
 🔬 **[Zenflow: MR for Sleep & Relaxation](https://dl.acm.org/doi/full/10.1145/3772318.3791875)** · Investigating mixed reality transitions to enhance sleep and relaxation. CHI 2026.
 
 🤝 **[MR Remote Collaboration](https://dl.acm.org/doi/abs/10.1145/3313831.3376550)** · Eye gaze and hand gesture sharing for mixed reality remote collaboration. CHI 2020.
+
 ---
 
 ### Writing & mentoring 🌱
