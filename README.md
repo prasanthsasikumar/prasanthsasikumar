@@ -1,29 +1,35 @@
 # [![prasanthsasikumar header](https://raw.githubusercontent.com/prasanthsasikumar/prasanthsasikumar/main/Images/logoBanner.jpg)](https://prasanthsasikumar.com)
 
-Hey there 👋,
+Hey there 👋
 
-I create blog posts and open source packages mainly about Augmented Reality and Human Computer Interaction.  I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.  You can see a full list of what I am up to on [prasanthsasikumar.com](prasanthsasikumar.com). 
+I'm a Research Fellow at the National University of Singapore, working at the intersection of **AI and spatial computing**. My research applies machine learning to human sensing — predicting VR cybersickness from gameplay video, classifying physiological signals from EEG, and building intelligent interactive systems in XR.
 
-  ---
- 
- <p>
-  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
-</p>
- 
-### Boy Scout Rule
+I publish at top HCI venues (CHI, IEEE VR, ISMAR, SIGGRAPH) with **565+ citations**, and I build tools and prototypes that bridge the gap between research and real products.
 
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
-
- ---
-
-### My Digital Garden 🌱
-
-I write regular blog posts, most of which you will find on my personal website [prasanthsasikumar.com](prasanthsasikumar.com).
-
-I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **AR/VR** using **Unity** and **C#**. 
-
+📍 [prasanthsasikumar.com](https://prasanthsasikumar.com) · [Google Scholar](https://scholar.google.com/citations?user=85RKyZMAAAAJ)
 
 ---
 
+### What I work with
+
+`Python` · `PyTorch` · `scikit-learn` · `OpenCV` · `LLMs/Agents` · `Unity/C#` · `TypeScript` · `EEG/Physiological Signals`
+
+---
+
+### Selected projects
+
+🧠 **VR Cybersickness Prediction** — ML pipeline that analyzes VR gameplay video to predict and mitigate motion sickness (CHI 2025)
+
+⚡ **EEG Inter-Brain Synchrony** — Hyperscanning system for measuring neural synchrony between collaborators in real and virtual environments
+
+🤖 **LLM-Powered XR Interfaces** — Exploring how large language models can make spatial computing more intuitive and accessible
+
+🔬 **Remote Collaboration Systems** — High-fidelity volumetric capture and reconstruction for real-time remote collaboration in AR/VR
+
+---
+
+### Writing & mentoring 🌱
+
+I write about things I'm learning and building on [prasanthsasikumar.com](https://prasanthsasikumar.com) — mostly at the intersection of AI, XR, and human-computer interaction. I also mentor early-career researchers and developers getting into spatial computing.
 
 
