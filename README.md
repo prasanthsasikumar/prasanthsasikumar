@@ -31,5 +31,5 @@ I publish at top HCI venues (CHI, IEEE VR, ISMAR, SIGGRAPH) with **565+ citation
 ### Writing & mentoring 🌱
 
 I write about things I'm learning and building on [prasanthsasikumar.com](https://prasanthsasikumar.com) — mostly at the intersection of AI, XR, and human-computer interaction. I also mentor early-career researchers and developers getting into spatial computing.
-](https://scholar.google.com/citations?hl=en&tzom=-480&user=85RKyZMAAAAJ)
 
+---
