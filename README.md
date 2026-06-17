@@ -16,16 +16,19 @@ I publish at top HCI venues (CHI, IEEE VR, ISMAR, SIGGRAPH) with **700+ citation
 
 ---
 
-### Selected projects
+### Selected research
 
-🧠 **VR Cybersickness Prediction** — ML pipeline that analyzes VR gameplay video to predict and mitigate motion sickness (CHI 2025)
+🤖 **[Multimodal Emotion Prediction](https://openaccess.thecvf.com/content/CVPR2026W/ABAW/html/Dissanayake_Two-Stage_Multimodal_Framework_for_Emotion_Mimicry_Intensity_Prediction_CVPRW_2026_paper.html)** · Two-stage framework fusing text, audio, vision, and motion for emotion mimicry intensity prediction. 3rd place in the CVPR 2026 ABAW Challenge.
 
-⚡ **EEG Inter-Brain Synchrony** — Hyperscanning system for measuring neural synchrony between collaborators in real and virtual environments
+🧠 **[VR.net: ML for Cybersickness](https://ieeexplore.ieee.org/abstract/document/10458372)** · A 165-hour labeled gameplay dataset and ML pipeline for predicting VR motion sickness from video frames. IEEE TVCG 2024.
 
-🤖 **LLM-Powered XR Interfaces** — Exploring how large language models can make spatial computing more intuitive and accessible
+⚡ **[Inter-Brain Synchrony in VR](https://dl.acm.org/doi/abs/10.1145/3491101.3519746)** · EEG hyperscanning to measure neural synchrony and eye gaze patterns during VR collaboration. CHI 2022.
 
-🔬 **Remote Collaboration Systems** — High-fidelity volumetric capture and reconstruction for real-time remote collaboration in AR/VR
+💡 **[Physiological Cues for Remote Collaboration](https://ieeexplore.ieee.org/abstract/document/10494102)** · Representing emotional patterns from physiological data in shared VR environments. IEEE VR 2024.
 
+🔬 **[Zenflow: MR for Sleep & Relaxation](https://dl.acm.org/doi/full/10.1145/3772318.3791875)** · Investigating mixed reality transitions to enhance sleep and relaxation. CHI 2026.
+
+🤝 **[MR Remote Collaboration](https://dl.acm.org/doi/abs/10.1145/3313831.3376550)** · Eye gaze and hand gesture sharing for mixed reality remote collaboration. CHI 2020.
 ---
 
 ### Writing & mentoring 🌱
